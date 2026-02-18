@@ -1,0 +1,31 @@
+✅ In Your Project
+
+You wrote:
+
+spring.security.user.name=Rohith
+spring.security.user.password=Rohith
+
+
+So now:
+
+If someone opens http://localhost:8080
+
+Spring Security will show a login popup
+
+User must enter:
+
+Username: Rohith
+
+Password: Rohith
+
+If correct → Access granted
+If wrong → Access denied
+
+✅ What is the Use Case?
+
+Basic Authentication is mainly used for:
+
+1️⃣ Small projects
+2️⃣ Testing APIs
+3️⃣ Internal company tools
+4️⃣ Admin panels
